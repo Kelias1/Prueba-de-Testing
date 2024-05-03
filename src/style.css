@@ -18,31 +18,31 @@
 } */
 
 .visa {
-  background-image: url("../img/visa.png");
+  background-image: url("./img/visa.png");
 }
 
 .master-card {
-  background-image: url("../img/mastercard.png");
+  background-image: url("./img/mastercard.png");
 }
 
 .american {
-  background-image: url("../img/american-express.png");
+  background-image: url("./img/american-express.png");
 }
 
 .discover {
-  background-image: url("../img/discover.png");
+  background-image: url("./img/discover.png");
 }
 
 .mir {
-  background-image: url("../img/mir.png");
+  background-image: url("./img/mir.png");
 }
 
 .jcb {
-  background-image: url("../img/jcb.png");
+  background-image: url("./img/jcb.png");
 }
 
 .diners {
-	background-image: url("../img/diners-club.png");
+	background-image: url("./img/diners-club.png");
 }
 
 .active {
@@ -122,9 +122,9 @@
 }
 
 .icon-check {
-	background-image: url("../img/check.png");
+	background-image: url("./img/check.png");
 }
 
 .icon-cancel {
-	background-image: url("../img/cancel.png");
+	background-image: url("./img/cancel.png");
 }
