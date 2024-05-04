@@ -11,11 +11,11 @@
   height: 40px;
 }
 
-/* .bank {
+.img-card {
   width: 100%;
   height: 100%;
   filter: grayscale(100%);
-} */
+}
 
 .visa {
   background-image: url("./img/visa.png");
@@ -127,4 +127,5 @@
 
 .icon-cancel {
 	background-image: url("./img/cancel.png");
+  background-repeat: no-repeat;
 }
